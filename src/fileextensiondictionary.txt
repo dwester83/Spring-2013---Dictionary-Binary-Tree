@@ -1,0 +1,520 @@
+.RND AutoShade format 
+.OCX Object Linking and Embedding (OLE) Custom Control (filename extension). 
+.PXL Microsoft Pocket Excel (filename extension). 
+.CMV Corel Move animation (filename extension). 
+.BRX Browse Index (filename extension). Found on multimedia CD-ROMs. 
+.QRY Microsoft Query (filename extension). 
+.CMP LEAD Technologies graphics 
+.PWZ Microsoft PowerPoint Wizard (filename extension). 
+.MMM Macromind animation 
+.GRP Group 
+.XM MOD music format (filename extension). 
+.RMI RIFF MIDI file 
+.CMF SoundBlaster file (filename extension). 
+.CMD Command file -- OS/2 
+.MMF Microsoft Mail File (filename extension). 
+.MME Mime encoded file (filename extension); the encoding format used by the Multipurpose Internet Mail Extension. 
+.WMF Windows Metafile 
+.2GR A file that allows Windows to display text and graphics in standard mode on a 286 or 386 computer (filename extension). 
+.GRF Graph 
+.SHTML HTML file with embedded server-side includes (SSIs) (filename extension). 
+.ED5 EDMICS graphics 
+.GRA Microsoft Graph (filename extension). 
+.JPEG JPEG bitmap (filename extension). 
+.PWD Pocket Word document - Microsoft (filename extension). 
+.shar UNIX shell archive (filename extension), which can be decoded by Unshar. 
+.DGN Intergraph graphics 
+.TBK Asymetrix Toolbook (filename extension). 
+.OBJ Object module 
+.CLP Clipboard 
+.HLP Help 
+.WLR VRML page 
+.WP WordPerfect 
+.OBD Microsoft Office Binder (filename extension). 
+.Z Unix compress file 
+.IGF Inset Systems graphics - Hijaak 
+.X AVS X image file 
+.AVS Intel video capture format (filename extension). 
+.S3M MOD music file (filename extension). 
+.S Assembly language file - Unix 
+.R8P LaserJet portrait font 
+.OAZ OAZ Fax 
+.taz Another way of writing .tar.Z 
+.RLE Run Length Encoded 
+.RLC CAD Overlay ESP - Image Systems 
+.R8L LaserJet landscape font 
+.AVI AVI movie format 
+.RLA Wavefront raster image 
+.XFX JetFax 
+.THEME Desktop theme - Windows 95 (filename extension). 
+.TAR Tar - Tape ARchive (filename extension). Tar is a UNIX method of archiving files, which can also be used by PCs. Tar archives files but does not compress them, so sometimes .tar files are compressed with other utilities, which produces extensions like .tar.gz, .tar.Z, and .tgz. Archive files with the .tar extension can be extracted in UNIX with tar or on a PC with WinZip or on the Mac with the program Tar. 
+.H Header (filename extension -- C). 
+.SFS PCL 5 scalable font 
+.TAL Adobe Type Align 
+.C C program file 
+.YAL Arts & Letters click art (filename extension). 
+.SFP LaserJet portrait font 
+.WKS 1. Lotus Worksheet (filename extension). 2. Microsoft Works document (filename extension). 
+.VIFF Khoros Visualization image file 
+.SFL LaserJet landscape font 
+.WKQ Quattro spreadsheet 
+.VP Ventura Publisher (filename extension). 
+.IFF Amiga 
+.OAB Outlook Address Book - Microsoft (filename extension). 
+.MPNT Macintosh MacPaint 
+.OZP Sharp Organizer telephone bank 
+.DEV Device driver file (filename extension). 
+.OZM Sharp Organizer memo bank 
+.DER Certificate (filename extension). 
+.NET Network file (filename extension). 
+.uue Uuencode file 
+.SET Setup parameters 
+.PUB Publication - Ventura Publisher, Microsoft Publisher (filename extension). 
+.SEP TIFF bitmap (filename extension). 
+.uu Uuencode compressed file 
+.aiff Audio Interchange File Format. An uncompressed sound format developed by Apple Computer for storing high-quality sampled audio and musical instrument information. It can be played on PC and Mac, using QuickTime or Sound Player. 
+.DEF Definition - C++ (filename extension). 
+.ATT AT&T 
+.SEG Segment (of a compressed file saved in segments with Stuffit or Compact Pro) 
+.SYNU SDSC Synu image 
+.SEA Self-Extracting Archive (Stuffit or Compact Pro) 
+.LOG Log 
+.IDX Index 
+.NDX Index - dBASE 
+.VOC Sound Blaster 
+.WIZ Microsoft Word Wizard (filename extension). 
+.RIX RIX virtual screen 
+.CIT Intergraph scanned image 
+.WK4 Lotus version 4 
+.SDL SmartDraw Library (filename extension). 
+.DDI Disk Doubler Image (filename extension). 
+.WK3 Lotus version 3 
+.CIM Sim City file (filename extension). 
+.GP4 Group 4 - CALS, ITU (filename extension). CCITT compressed Group 4 TIFF file. 
+.WK1 Lotus 1-2-3, up to 2.01 
+.GP3 CCITT compressed Group 3 TIFF file (filename extension). 
+.WIN Windows backup file (filename extension). 
+.AST Assistant file - Claris Works (filename extension). Assistants guide the user through a task by asking a series of questions and then use the answers to perform a task. Assistants in Claris Works can be used to create such useful items as calendars, newsletters, stationery, labels, and address lists, to make footnotes within a file, to find documents, etc. 
+.MIL Group 4 
+.IDE Integrated Development Environment configuration (filename extension) 
+.IDD Instrument Definition - MIDI (filename extension). 
+.ASP Active Server Page - Microsoft (filename extension). 
+.BNK Sim City game file (filename extension). 
+.CIF Chapter Information - Venture 
+.RIF Fractal Painter bitmap (filename extension). 
+.ASM Assembly Source Code 
+.USP LaserJet portrait font 
+.MID MIDI 
+.TXT ASCII text file 
+.MIC Microsoft Image Composer (filename extension). 
+.WID Ventura width table (filename extension). 
+.RIC Roch FaxNet 
+.RIB Renderman graphics 
+.USL LaserJet landscape font 
+.RIA Alpharel Group IV raster graphics 
+.ASF Active Streaming File - HoTMetaL Pro (filename extension). 
+.DCT Dictionary 
+.ASC ASCII text file 
+.DCS Color Separation - EPS 
+.SCT Screen Capture Text - Lotus 
+.PSD Photoshop Document 
+.SCR 1. Screensaver - Windows. 2. Screen Layout - dBASE. 3. Script for Apple's Disk Copy utility. 
+.EXE Executable file -- machine code 
+.ICO Icon - Windows or OS/2 
+.SCP Dial-up networking script (filename extension). 
+.ICM Image Colour Matching (filename extension). 
+.CHP Chapter - Ventura 
+.SCM ScreenCam movie 
+.BMP Bitmap 
+.CHK Checkdisk - DOS 
+.movie QuickTime movie. This file can be viewed with QuickTime Player. 
+.ART An art file, in some draw or paint applications (filename extension). 
+.FRS WordPerfect Graphics Driver 
+.PRT Formatted text 
+.PRS WordPerfect printer driver 
+.DCA IBM text 
+.ICB Targa bitmap (filename extension). 
+.SI SoftImage image file 
+.ICA IOCA graphics 
+.FRM Form design -- Visual Basic 
+.PRN 1. Print file - temporary 2. XyWrite printer driver 3. PostScript file 
+.arj A PC compressed format found on European sites (filename extension), which can be decoded with unArjMac, DeArj, and SITEX10.EXE (win). 
+.SC Source Code - Paradox 
+.DBX DATABEAM graphics 
+.PRJ Project file 
+.PRG A dBASE source code file 
+.DBT Database text - dBASE 
+.ARC ARC or ARC+ compressed 
+.PRD Printer driver - Microsoft Word, Word Perfect, Microsoft Works (filename extension). 
+.tar.z or .tar.Z Combined filename extension for a file that has been archived using tar and then zipped. 
+.GLY Glossary 
+.TWF TabWorks File (file extension). 
+.SBP IBM Storyboard graphics / Superbase text 
+.BLT Wordperfect for DOS (filename extension). 
+.XBM X Bitmap 
+.CGM CGM graphics 
+.DBF Database File - dBASE 
+.HGL HP Graphics Language (filename extension). 
+.RM Real Media. 
+.CGI Common Gateway Interface (filename extension). A file that makes it possible for HTTP servers to interface with computer programs to provide interactive functions like fill-out forms. 
+.DBC Visual FoxPro database (filename extension). 
+.moov QuickTime movie. This file can be viewed with QuickTime Player. 
+.MGF Micrografx Draw Font (filename extension). 
+.TX8 MS-DOS text (filename extension). 
+.OVR Overlay module 
+.RGB An SGI RGB image file 
+.rc A filename extension found in many UNIX files (.newsrc, etc.) which means "run commands". 
+.RA RealAudio 
+.QLC ATM font information 
+.QLB Quick Library (filename extension). 
+.OVL Overlay module 
+.DAT Data 
+.VLB Ventura Library (filename extension). 
+.SAV Saved game (filename extension). 
+.M3D Motion 3D - Corel (filename extension). 
+.XAR Corel Xara drawing (filename extension). 
+.RFT RFT-DCA (filename extension). 
+.qt QuickTime movie, binary file type (filename extension).  
+.SAM AmiPro 
+.FPX FlashPix bitmap (filename extension). 
+.CFL Corel Flow (filename extension). 
+.PPT PowerPoint presentation (filename extension). 
+.CFG Configuration 
+.PPS PowerPoint Slideshow (filename extension). 
+.APP MacroMedia Authorware package (filename extension). 
+.MFF MIDI File Format (filename extension). 
+.CFB Compton’s multimedia encyclopedia (filename extension). 
+.PPM Portable PixelMap (filename extension). 
+.API Application Program Interface (filename extension). An interface between the operating system and application programs. 
+.html Filename extension for a document with HTML coding, which can be read by WWW browsers. 
+.PPD PostScript Printer Description 
+.PPA PowerPoint Add-in - Microsoft (filename extension). 
+.MEU Menu 
+.MET Metafile - OS/2 
+.PS PostScript. This is a plain text file. 
+.REP Report file (filename extension). 
+.FOX FoxBase 
+.HEL Microsoft Hellbender game file (filename extension). 
+.POV Persistence Of Vision raytracer (filename extension). 
+.PM PageMaker 
+.FOT Windows TrueType font 
+.PL Perl script (filename extension). 
+.FOR FORTRAN 
+.REG Registration file (filename extension). 
+.FON 1. Bitmapped Font - Windows 2. Phone 
+.HED HighEdit document (filename extension). 
+.ZOO Zoo 
+.REC Windows Recorder macro file (filename extension). 
+.PICT Macintosh QuickDraw/PICT This kind of file stores images in QuickDraw vector format. PICT2 can have grayscale bitmapped images also. 
+.FOG Fontographer font (filename extension). 
+.SYS System file 
+.CDX Visual FoxPro database index (filename extension). 
+.MDX Multi-index 
+.CDT Corel Draw template (filename extension). 
+.JTF JPEG bitmap (filename extension). 
+.SYL SYLK spreadsheet format 
+.TTF TrueType font 
+.CDR CorelDraw 
+.TTC TrueType compressed font 
+.SYD Sysedit backup file (filename extension). 
+.ANS ANSI text (filename extension). 
+.bin A MacBinary II encoded file (filename extension). This file type, downloaded as MacBinary or Binary, can be decompressed with Stuffit Expander.  
+.FNT Font 
+.FP3 Filemaker Pro 3 
+.HDF Hierarchical Data File 
+.FP1 Flying Pigs (filename extension). 
+.CDA CD Audio track (filename extension). 
+.GIF Graphics Interchange Format 
+.MDB Access database 
+.ANI Animated cursor (filename extension). 
+.WDB Microsoft Works Database (filename extension). 
+.BK$ Backup file (filename extension). 
+.LIC License file - shareware (filename extension). 
+.LIB Library 
+.PNG 1. Portable Network Graphics bitmap (filename extension). 2. Paint Shop Pro Browser (filename extension). 
+.ESI Esri plot file 
+.MCW Microsoft Word for Macintosh (filename extension). 
+.lhz LHA compression file 
+.MCS MathCAD format 
+.DXF AutoCAD vector format 
+.CCM Lotus cc:Mail (filename extension). 
+.lhs Literate Haskell source file 
+.XXE Xxencoded file (filename extension). 
+.FMT Format - dBASE 
+.CCH Corel chart (filename extension). 
+.NG Norton Guides 
+.b64 Base 64 (filename extension), the encoding format used by the Multipurpose Internet Mail Extension. 
+.TRM Terminal settings - Windows (filename extension). 
+.lha Filename extension for a PC/Amiga compression format decodable by LHA Expander or MacLHA. 
+.SWP Swap - temporary file (filename extension). 
+.tar.gz Combined filename extension for a file that has been archived using tar and then gzipped. 
+.ORI Original 
+.ICON Sun icon and cursor 
+.CBT Computer-Based Training; a tutorial file (filename extension). 
+.DWG Drawing - AutoCAD (filename extension). 
+.XWD X Window System window dump image 
+.VGR Ventura 
+.FLT Filter - graphics conversion 
+.WBK Microsoft Word Backup (filename extension). 
+.PLT Plotter drawing (filename extension). 
+.FLR Live3D (filename extension). 
+.MI Miscellaneous (filename extension). 
+.ALL Arts and Letters Library (filename extension). 
+.SVX Amiga 8SVX sound (filename extension). 
+.FLI AutoDesk animation 
+.MPEG MPEG movie or animation file. This file can be played with QuickTime Player. 
+.FLD Thumbnail folder - Hijaak 
+.FLC AutoDesk animation 
+.RAW Raw file format - bitmap (filename extension). 
+.WAV Sound file 
+.MAT Microsoft Access Table (filename extension). 
+.TIFF TIFF graphics file (filename extension). 
+.RAS Raster graphics - Sun 
+.CAP Caption 
+.MAR Microsoft Access Report (filename extension). 
+.MAQ Microsoft Access Query (filename extension). 
+.MAP Map - linkage editor 
+.CAL Calendar or CALS 
+.MAM Microsoft Access Macro (filename extension). 
+.RAM Real Audio 
+.MAK Makefile 
+.PM5 PageMaker 5 document 
+.FM3 Format for 1-2-3 Version 3 
+.PM4 PageMaker 4 document 
+.PM3 PageMaker 3 document 
+.MAF Microsoft Access Form (filename extension). 
+.EPS Encapsulated PostScript format 
+.CAB Microsoft compressed format 
+.MAC MacPaint 
+.WAB Windows Address Book (filename extension). 
+.BFC Briefcase document - Windows 95 (filename extension). 
+.pkg AppleLink package compression format These files are decodable by StuffIt Expander. 
+.JPG file extension for JPEG (Joint Photographic Experts Group). A file stored in JPEG format. JPEG,an ISO/ITU standard for storing images with high compression capability, uses a discreet cosine transform that can achieve compression rates of 100:1 (significant loss of data from original) and 20:1 (minimal loss). C-Cube Microsystems introduced the first JPEG chip.  
+.$$$ Temporary file 
+.PJX Project file - Visual FoxPro (filename extension). 
+.GEO VideoScope (filename extension). 
+.GEM GEM graphics 
+.STY Style sheet - Ventura 
+.LEG Legacy document (filename extension). 
+.GED Arts & Letters graphics 
+.MYS Myst saved game file (filename extension). 
+.HYP Hyphenation 
+.mime MIME (filename extension); the encoding format used by the Multipurpose Internet Mail Extension. 
+.JT JT Fax 
+.TOC Table Of Contents (filename extension). 
+.NTF Notes Template File - Lotus Notes database (filename extension). 
+.PIX Inset Systems graphics 
+.PIT PackIt - Macintosh compression 
+.HYC Hyphenation - WordPerfect 
+.ONX Onyx Graphics Postershop (filename extension). 
+.QDK Quarterdeck Qemm (filename extension). 
+.ZIP File compressed using PKZIP 
+.ISU Netscape file (filename extension). 
+.AIF Audio Interchange File Format or AIFF (filename extension). A format developed by Apple Computer for storing high-quality sampled audio and musical instrument information. It can be played on PC and Mac. 
+.LDB Lock file - Microsoft Access (filename extension). 
+.PIF Program Information File - Windows 
+.VDA Targa bitmap (filename extension). 
+.PIC PICT graphics format, or PIXAR picture file 
+.IX Index File - Framemaker (filename extension). 
+.IW Idlewild screensaver (filename extension). 
+.enc encoded 
+.DSF Designer graphics, version 6 
+.IT MOD music file format (filename extension). 
+.IL Icon Library 
+.DRW Designer graphics 
+.DRV Driver 
+.TMP Temporary file 
+.eml electronic mail 
+.GCA GOCA graphics 
+.CWS Claris Works template (filename extension). 
+.EMF Enhanced Windows Metafile (filename extension). 
+.HWP Hangul Word Processor (filename extension). 
+.CWK Claris Works (filename extension). 
+.HT HyperTerminal (filename extension). 
+.VBX Visual Basic Extension 
+.QBW QuickBooks for Windows (filename extension). 
+.SRC A file used in the creation of .INI files for configuration settings (filename extension). 
+.VBP Visual Basic Project (filename extension). 
+.LBM Deluxe Paint graphics file 
+.LBL Label - dBASE 
+.A3W MacroMedia Authorware Windows 3.5 (filename extension). 
+.PGM Portable Gray Map bitmap (filename extension). 
+.PGL HPGL 7475A plotter - vector graphics 
+.DS4 Designer graphics, version 4 
+.GZ GNU gzip compressed file - Unix 
+.OLE OLE object (filename extension). 
+.BAT Batch 
+.OLB OLE Object Library (filename extension). 
+.TLB OLE Type Library (filename extension). 
+.BAS BASIC program file 
+.WVL Wavelet compressed bitmap (filename extension). 
+.KFX Kofax 
+.SQB SyQuest Backup (filename extension). 
+.BAK Backup copy in DOS or OS/2 
+.FH3 Aldus Freehand 3 (filename extension). 
+.MVB Microsoft Multimedia Viewer (filename extension). 
+.AFM Adobe Font Metrics - Type 1 font metrics (filename extension). 
+.spx Screen Peace Extension 
+.PFM Postscript Font Metrics; Windows Type 1 font metrics 
+.DPR Delphi project file (filename extension). 
+.CUT Dr. Halo graphics 
+.CUR Windows cursor image 
+.MUS Music (filename extension). 
+.PFB Type 1 font - encrypted 
+.XPM X Pixelmap 
+.PFA Type 1 font - ASCII 
+.DPI Dots Per Inch - graphics 
+.lzs PC/Amiga compression format 
+.image Mac disk image (filename extension); a compressed format which can be decoded or mounted by DiskCopy, Disk Image Mounter, Disk Charmer, and ShrinkWrap (ImageMaster). 
+.FP Claris FileMaker Pro (filename extension). 
+.SPD Speedo scalable font 
+.FM Framemaker (filename extension). 
+.AG4 Access G4 
+.LZH LHARC compression 
+.386 Swap file; enables computer running in enhanced mode to use Windows with virtual memory (filename extension). 
+.DOX MultiMate document 
+.CTY City file - SimCity (filename extension). 
+.DOT Document Template - Microsoft Word (filename extension). 
+.CTL Control file (filename extension). 
+.htm DOS filename extension for a document with HTML coding, which can be read by WWW browsers. 
+.G4 GTX RasterCAD 
+.DOC Document file 
+.FDX Force Index 
+.IOB Imagine file (filename extension). 
+.PDV PC Paintbrush printer driver 
+.ADS Specification file type, Ada language (filename extension). 
+.RTF Microsoft text and graphics 
+.ADR AfterDark Randomizer (filename extension). AfterDark is a screensaver program that can be set to randomly display a variety of screensaver patterns one after another. 
+.ADM AfterDark MultiModule (filename extension). 
+.CSV Comma delimited 
+.PDG PrintShop Deluxe (filename extension). 
+.ADD Adapter Driver - OS/2 (filename extension). 
+.CSS Cascading Style Sheet (filename extension). 
+.HST Host 
+.ADB 1. Appointment DataBase, HP 100LX (filename extension). 2. Body file type, Ada language (filename extension). 
+.KDC Kodak Photo-Enhancer (filename extension). 
+.SNM Netscape mail (filename extension). 
+.JIF JPEG Image Format (filename extension). 
+.DX Document Imaging 
+.MSP Microsoft Paint 
+.TIF TIFF graphics file 
+.INI Initialization - configuration settings 
+.MSN Microsoft Network document (filename extension). 
+.INF Information 
+.IND Index 
+.ACV Drivers for compressing or decompressing audio files, OS/2 (filename extension). 
+.SND Sound file 
+.PCX 1. PC Paintbrush 2. Graphics file - Zsoft format 
+.PCW PC Write 
+.MSG Message file 
+.CSC Corel Script (filename extension). 
+.PCT PC Paint 
+.PCS PICS animation (filename extension). 
+.DG Autotrol graphics 
+.ACM Windows system directory file (filename extension). 
+.ACL Keyboard accelerator, Corel Draw 6 (filename extension). 
+.VXD Virtual Device Driver (filename extension). 
+.PCM LaserJet cartridge information 
+.DD Disk Doubler 
+.PCL HP LaserJet 
+.DB Table - Paradox 
+.THN Thumbnail (filename extension). 
+.PCD Photo CD format 
+.P10 Tektronix Plot10 
+.MIFF An ImageMagick file format 
+.CV Microsoft CodeView (filename extension). 
+.SMI Self-Mounting Image. This file is a Macintosh Disk Image, similar to an .img file, but it does not require the use of Disk Copy. When the file is downloaded, a disk image appears on the desktop. The disk image will behave like a read-only disk. 
+.IMG Image. This file is a Macintosh Disk Image. Disk Copy can be used to mount the disk image on the Macintosh desktop. The mounted disk image will behave like a read-only disk. 
+.LWP Lotus Word Pro document (filename extension). 
+.MRK Markup - Informative Graphics 
+.WRK Symphony spreadsheet 
+.3GR A file that allows Windows to display text and graphics in enhanced mode on a 386, 486, or Pentium computer (filename extension). 
+.WRI Windows Write document 
+.ima Winimage compressed format These files can be decoded or mounted by ShrinkWrap. 
+.CRD Windows Cardfile (filename extension). 
+.906 Calcomp plotter 
+.ABR Brush - Adobe Photoshop (filename extension). 
+.tgz Another name for .tar.z and .tar.gz 
+.ABK AutoBackup, Corel Draw (filename extension). 
+.PBM Portable Bit Map 
+.PBK Microsoft Phonebook (filename extension). 
+.HQX BinHex (filename extension -- Macintosh). 
+.XLT Microsoft Excel template (filename extension). 
+.XLS Excel worksheet 
+.WS7 WordStar for Windows 7 document (filename extension). 
+.DLL Dynamic link library 
+.WS6 WordStar for Windows 6 document (filename extension). 
+.NLM NLM program - NetWare 
+.WS5 WordStar for Windows 5 document (filename extension). 
+.XLM Microsoft Excel macro (filename extension). 
+.WS4 WordStar for Windows 4 document (filename extension). 
+.WS3 WordStar for Windows 3 document (filename extension). 
+.SLK Symbolic Link (SYLK) spreadsheet (filename extension). 
+.RIFF Resource Interchange File Format A multimedia file format; the Microsoft equivalent to Amiga IFF format. 
+.XLK Microsoft Excel backup (filename extension). 
+.WS2 WordStar for Windows 2 document (filename extension). 
+.WS1 WordStar for Windows 1 document (filename extension). 
+.GX2 Show Partner graphics 
+.GX1 Show Partner graphics 
+.TGA TARGA graphics 
+.FAX Fax 
+.SLD AutoCAD slide 
+.XLC Excel chart 
+.PAT Pattern - Corel Draw (filename extension). 
+.BK Backup copy 
+.PAS Pascal program file 
+.BI Binary file (filename extension). 
+.BG Backgammon game (filename extension). 
+.PAL Paintbrush palette (filename extension). 
+.PAK Quake game data (filename extension). 
+.CPX Corel Presentation Exchange compressed file (filename extension). 
+.MPX Microsoft Project export file (filename extension). 
+.TFM Font metrics - Intellifont 
+.CPT Compact Pro 
+.CPR Knowledge Access graphics 
+.MPT Microsoft Project template file (filename extension). 
+.RPT Report file (filename extension). 
+.WPT WordPerfect Template (filename extension). 
+.CPP C++ program file 
+.WPS Microsoft Works document 
+.PAB Personal Address Book - Microsoft (filename extension). 
+.JFF or .JFIF JPEG File Interchange Format; a 24-bit graphic format. It can be opened with QuickTime, a WWW browser, or a graphics viewer such as JPEGView. 
+.MPP Microsoft Project project file (filename extension). 
+.AU A sound file format used on Sun Microsystems or other UNIX computers 
+.CPL Control Panel - Windows 
+.HPL HP Graphics 
+.WPM WordPerfect macro 
+.CPI Code Page - DOS 
+.HPJ Help Project - Visual Basic (filename extension). 
+.CPE Fax Cover document (filename extension). 
+.MPG MPEG encoded file. This file is an MPEG movie, and can be played with QuickTime Player. 
+.WPG WordPerfect Graphics 
+.MPE MPEG (filename extension). 
+.PHTML HTML document with preprocessing instructions (PPIs) (filename extension). 
+.WPD 1. Windows Printer Description (filename extension). 2. WordPerfect Demo (filename extension). 3. WordPerfect Document (filename extension). 
+.TEX Tex or LaTex document 
+.AI Adobe Illustrator 
+.VUE Relational View - dBASE 
+.AD After Dark 
+.MOZ Mozilla - Netscape cache file (filename extension). 
+.MOV Movie - QuickTime 
+.COM Command file - small version of .EXE 
+.BTM Batch file - Norton Utilities (filename extension). 
+.QTM QuickTime Movie (filename extension). 
+.COB COBOL source code 
+.MOD (For module). A music file format that contains digitized sound samples A .MOD file takes more memory than a MIDI file because a MIDI file contains instructions for making sounds but not the actual sound samples. There are .MOD players for Amiga, PC, and Macintosh computers. 
+.SIT Stuffit compressed file 
+.CNQ Compuworks Design Shop (filename extension). 
+.mp3 MPEG Layer III compressed audio. This file can be played with QuickTime Player, Real Player, and some other sound players. 
+.mp2 MPEG Layer II compressed audio. This file can be played using QuickTime Player and some other sound players. 
+.TDF Typeface definition - Speedo 
+.LST List (filename extension). 
+.VST Targa bitmap (filename extension). 
+.DIF Data Interchange Format spreadsheet 
+.IIF Interchange File - QuickBooks for Windows (filename extension). 
+.sig Signature A .sig file can be set up and automatically attached to outgoing email, newsgroup postings, etc. It includes the name and contact information of the sender, and may also have ASCII art, favorite quotes, etc. 
+.RNL GTX Runlength raster graphics 
+.DIC Dictionary 
+.XIF Xerox Image Format (filename extension). 
+.DIB DIB graphics - Windows 
+.CNF Configuration file (filename extension). 
